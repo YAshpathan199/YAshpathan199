@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm Yasha 👋
+# Hi there, I'm Yasharkhan 👋
 
 ### Full Stack Developer · Building things for the web
 
